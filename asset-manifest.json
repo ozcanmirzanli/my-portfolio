@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.6bfe04bf.css",
+    "main.js": "/my-portfolio/static/js/main.eaea140c.js",
+    "static/media/image.png": "/my-portfolio/static/media/image.a3042bcce012b255e2e0.png",
+    "static/media/portfolio-4.png": "/my-portfolio/static/media/portfolio-4.1a59983b00dd84027438.png",
+    "static/media/portfolio-1.png": "/my-portfolio/static/media/portfolio-1.a060fe4ebf37d5ea2c98.png",
+    "static/media/logo.png": "/my-portfolio/static/media/logo.eede7de556399c576885.png",
+    "static/media/portfolio-2.png": "/my-portfolio/static/media/portfolio-2.3486d576a0c3dbe09421.png",
+    "static/media/portfolio-6.png": "/my-portfolio/static/media/portfolio-6.0d675dd9d1851c578750.png",
+    "static/media/portfolio-3.png": "/my-portfolio/static/media/portfolio-3.90a39af99689a4f25d21.png",
+    "static/media/portfolio-5.png": "/my-portfolio/static/media/portfolio-5.98906a795358b89b37f8.png",
+    "static/media/react.png": "/my-portfolio/static/media/react.36c0b7173f42c04891f8.png",
+    "static/media/JS.png": "/my-portfolio/static/media/JS.dc042fd7c3c77e25a29f.png",
+    "static/media/webdesign.png": "/my-portfolio/static/media/webdesign.639ffdccf1105e7a8561.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.6bfe04bf.css.map": "/my-portfolio/static/css/main.6bfe04bf.css.map",
+    "main.eaea140c.js.map": "/my-portfolio/static/js/main.eaea140c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bfe04bf.css",
+    "static/js/main.eaea140c.js"
+  ]
+}
